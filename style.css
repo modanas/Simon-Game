@@ -1,0 +1,40 @@
+body{
+ text-align: center;
+}
+
+.dabao{
+ height : 200px;
+ width : 200px;
+ border-radius: 20%;
+ border : 10px solid black;
+ margin: 2.5rem;
+}
+
+.abba-dabba-jabba{
+ display : flex;
+ justify-content: center;
+}
+
+.red{
+ background-color: #eb3636;
+}
+
+.yellow{
+ background-color: #f99b45;
+}
+
+.green{
+ background-color: #63aac0;
+}
+
+.purple{
+ background-color: rgb(212, 64, 212);
+}
+
+.flash{
+background-color: white;
+}
+
+.userFlash{
+ background-color: green;
+}
